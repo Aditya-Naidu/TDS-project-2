@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.vercel
+# Ignore virtual environment directory
+venv/
+
+# Other common exclusions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
