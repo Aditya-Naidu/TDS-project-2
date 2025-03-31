@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fad3ed-7049-4d34-b56d-11ab5fe7ccba" name="Changes" comment="Test Commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/files/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/files/extract.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/files/s-anand.net-May-2024.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/file_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/file_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/function_definations_llm.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/function_definations_llm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/solution_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/solution_functions.py" afterDir="false" />
-    </list>
+    <list default="true" id="78fad3ed-7049-4d34-b56d-11ab5fe7ccba" name="Changes" comment="36/57 works" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +120,7 @@
       <workItem from="1743434888557" duration="1005000" />
       <workItem from="1743436156363" duration="792000" />
       <workItem from="1743436978618" duration="121000" />
-      <workItem from="1743437116313" duration="3019000" />
+      <workItem from="1743437116313" duration="3450000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <option name="closed" value="true" />
@@ -142,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742888324361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="36/57 works">
+      <option name="closed" value="true" />
+      <created>1743440788046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743440788046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="36/57 works">
+      <option name="closed" value="true" />
+      <created>1743440813987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743440813987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+    <MESSAGE value="36/57 works" />
+    <option name="LAST_COMMIT_MESSAGE" value="36/57 works" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TDS_project_2$test_api.coverage" NAME="test_api Coverage Results" MODIFIED="1742992851287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
